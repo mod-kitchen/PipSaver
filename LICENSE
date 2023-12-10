@@ -1,5 +1,38 @@
-MIT License
+This application makes use of BSArch, a component of TES5Edit, included in 
+executable form. TES5Edit is licensed under the Mozilla Public License 2.0. No
+modifications were made to BSArch/TES5Edit.
 
+The source code for BSArch is available here:
+https://github.com/TES5Edit/TES5Edit/tree/dev/Tools/BSArchive
+The full text of the MPL 2.0 license is available here:
+https://www.mozilla.org/en-US/MPL/2.0/
+
+This application also makes use of BCnEncoder.NET, included in source form.
+Modifications were made to retarget dependencies.
+BCnEncoder.NET is licensed under the MIT license.
+
+The source code for BCnEncoder.NET is available here:
+https://github.com/nominom/bcnencoder.net
+The full text of the MIT license is available here:
+https://mit-license.org/
+
+This application makes use of a modified BGSM.cs from Material Editor.
+Material Editor is licensed under MIT license. Modifications were primarily for
+integration purposes.
+
+The source code for Material Editor is available here:
+https://github.com/ousnius/Material-Editor/
+The full text of the MIT license can be found here:
+https://mit-license.org/
+
+Application icon is 'desktop preferences' by user 'sixsixfive' via
+openclipart.org, licensed under Creative Commons Zero Public Domain License.
+The full text of the Creative Commons Zero PDL is available here:
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Our portion of the software is licensed under the MIT license, full text as 
+follows:
+=====
 Copyright (c) 2023 mod.kitchen
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -19,3 +52,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+=====
+
+Additionally, this software generates output based on user-provided
+information. mod.kitchen claims no liability, ownership, or copyright over
+generated works whatsoever.
